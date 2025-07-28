@@ -92,9 +92,9 @@ export const exclusiveOffers = [
 
 // Testimonials Dummy Data (Indian names and cities)
 export const testimonials = [
-    { id: 1, name: "Aarav Mehta", address: "Mumbai, India", image: "https://randomuser.me/api/portraits/men/31.jpg", rating: 5, review: "QuickStay made our family vacation seamless. The hotel options in Mumbai were perfect!" },
-    { id: 2, name: "Priya Reddy", address: "Hyderabad, India", image: "https://randomuser.me/api/portraits/women/65.jpg", rating: 4, review: "I found amazing deals for Hyderabad stays. Very easy to book and great support." },
-    { id: 3, name: "Rahul Sharma", address: "Delhi, India", image: "https://randomuser.me/api/portraits/men/75.jpg", rating: 5, review: "Exceptional service and very user-friendly platform. Will definitely use it again for Bangalore trips!" }
+    { id: 1, name: "Chanu Gupta", address: "Mumbai, India", image: "https://randomuser.me/api/portraits/men/31.jpg", rating: 5, review: "QuickStay made our family vacation seamless. The hotel options in Mumbai were perfect!" },
+    { id: 2, name: "Shanu Gupta", address: "Hyderabad, India", image: "https://randomuser.me/api/portraits/women/65.jpg", rating: 4, review: "I found amazing deals for Hyderabad stays. Very easy to book and great support." },
+    { id: 3, name: "Anchal Kumar ", address: "Delhi, India", image: "https://randomuser.me/api/portraits/men/75.jpg", rating: 5, review: "Exceptional service and very user-friendly platform. Will definitely use it again for Bangalore trips!" }
 ];
 
 // Facility Icon
