@@ -20,7 +20,7 @@ const Testimonial = () => {
                         <div className='flex items-center gap-1 mt-4'>
                            <StarRating />
                         </div>
-                        <p className='text-gray-500 max-w-90 mt-4'>"I've used many booking platforms before, but none compare to the personalized experience and attention to detail that QuickStay provides. Their curated selection of hotels is unmatched."</p>
+                        <p className='text-gray-500 max-w-90 mt-4'>"I've used many booking platforms before, but none compare to the personalized experience and attention to detail that YatraGhar provides. Their curated selection of hotels is unmatched."</p>
                     </div>
                 ))}
             </div>
