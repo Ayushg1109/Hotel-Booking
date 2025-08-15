@@ -76,7 +76,7 @@ export const createBooking = async (req, res) => {
       totalPrice,
     });
 
-   /* const mailOptions = {
+   const mailOptions = {
       from: process.env.SENDER_EMAIL,
       to: req.user.email,
       subject: 'Hotel Booking Details',
@@ -95,8 +95,8 @@ export const createBooking = async (req, res) => {
         <p>If you need to make any changes, feel free to contact us.</p>
       `,
     };
-*/
-   // await transporter.sendMail(mailOptions);
+
+   await transporter.sendMail(mailOptions);
 
     res.json({ success: true, message: "Booking created successfully" });
 
